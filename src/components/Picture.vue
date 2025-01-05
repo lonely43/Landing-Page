@@ -19,7 +19,7 @@
          align-items: center;
          text-align: center;
 
-         background-image: linear-gradient(to bottom, rgba(7, 7, 7, 0.219) 0%, rgba(99, 37, 90, 0) 60%, var(--color-background) 100%), url(../assets/enigma.jpg);
+         background-image: linear-gradient(to bottom, rgba(7, 7, 7, 0.219) 0%, rgba(99, 37, 90, 0) 60%, var(--color-background) 100%), url("../assets/enigma.jpg");
          background-position: center;
          background-repeat: no-repeat;
          background-size: cover;
